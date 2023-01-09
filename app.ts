@@ -1,2 +1,2 @@
-let fname = 'Muhammad Nabeel';
-console.log('Name : ', fname);
+const message:string = 'Hello World'
+console.log('number : ', message)
