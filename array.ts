@@ -1,5 +1,2 @@
-let stdNames:string[] = ['Nabeel', 'Usama', 'Saad', 'Zain', 'Zariyab']
-let data:any[] = ['Nabeel', 26, 'Male', 'Developer', true]
-
-console.log('Students data', stdNames)
-console.log('Data', data)
+let stdArray:string[] = ['Nabeel', 'Karachi', 'Male', 'Islam']
+console.log('Student Data : ', stdArray)

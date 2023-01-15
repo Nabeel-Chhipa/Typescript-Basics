@@ -1,4 +1,2 @@
-var stdNames = ['Nabeel', 'Usama', 'Saad', 'Zain', 'Zariyab'];
-var data = ['Nabeel', 26, 'Male', 'Developer', true];
-console.log('Students data', stdNames);
-console.log('Data', data);
+var stdArray = ['Nabeel', 'Karachi', 'Male', 'Islam'];
+console.log('Student Data : ', stdArray);
